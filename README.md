@@ -1,1 +1,1 @@
-This will failed docekr build if unit tests fails
+During docker build unit tests under /tests will be asserted and in case tests fail build will also be failed
